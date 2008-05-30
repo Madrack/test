@@ -1,3 +1,3 @@
 #!/bin/bash
-echo firs git test
-
+echo first git test
+echo second
